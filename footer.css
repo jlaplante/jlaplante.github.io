@@ -1,0 +1,32 @@
+
+
+html
+{
+    position: relative;
+    min-height: 100%;
+}
+
+body
+{
+    /*margin-bottom: 30px;*/
+}
+
+.footer
+{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    text-align: center;
+}
+
+.social-icons
+{
+    color: #6A1B68;
+    margin: 25px 25px;
+}
+
+.font-label {
+  color: #6A1B68;
+  margin-right: 25px;
+ }
