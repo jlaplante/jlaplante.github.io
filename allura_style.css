@@ -5,8 +5,7 @@ html, body
     height: 100%;
 }
 
-@media (min-width:1920px)
-{
+
     body
     {
         background-image: url('assets/images/allura/allura_background-w1920.jpg');
@@ -16,7 +15,7 @@ html, body
         background-size: cover;
         background-color: #999;
     }
-}
+/*}
 
 @media (min-width:3840px)
 {
@@ -68,7 +67,7 @@ html, body
         background-size: cover;
         background-color: #999;
     }
-}
+} */
 
 div, body
 {
